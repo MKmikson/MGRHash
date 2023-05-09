@@ -1,0 +1,23 @@
+{
+  "name": "mgr-hash",
+  "version": "1.1.0",
+  "description": "Hashes your text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKmikson/MGRhash-npm-package.git"
+  },
+  "keywords": [
+    "hash",
+    "mgr"
+  ],
+  "author": "Mikołaj Ronczewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKmikson/MGRhash-npm-package/issues"
+  },
+  "homepage": "https://github.com/MKmikson/MGRhash-npm-package#readme"
+}
